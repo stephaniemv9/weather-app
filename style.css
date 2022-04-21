@@ -1,0 +1,37 @@
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(100, 178, 249) 11.2%,
+    rgba(114, 231, 159, 0.8) 91.1%
+  );
+  color: rgb(95, 93, 93);
+}
+h1 {
+  text-align: center;
+  margin: 10px 10px;
+  color: rgb(43, 42, 42);
+}
+h3 {
+  text-decoration: underline;
+  color: rgb(43, 42, 42);
+}
+.container {
+  margin: 0 auto;
+  padding: 60px;
+}
+.two-boxes {
+  margin: 30px 30px;
+  padding: 20px;
+  text-align: center;
+}
+.city {
+  margin: 50px 70px;
+  padding: 20px;
+}
+.temperature {
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  font-weight: 100;
+  color: rgb(43, 42, 42);
+}
